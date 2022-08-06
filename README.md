@@ -92,7 +92,7 @@ Você deve ter algumas dependências para executar o programa:
 
 ## Documentação site Chuck Norris
 
-```https
+```http
 https://api.chucknorris.io
 ```
 
